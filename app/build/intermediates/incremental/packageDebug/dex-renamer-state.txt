@@ -1,0 +1,7 @@
+#Thu Oct 27 18:29:05 CST 2016
+base.0=/home/sparrow/AndroidStudioProjects/CompassExer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_66faba4256c67247646dbe5ed34e95849994e1ba
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/sparrow/AndroidStudioProjects/CompassExer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8c2a0c4ba728424756ffdf4709d4c69f90a69b58/classes.dex
+base.1=/home/sparrow/AndroidStudioProjects/CompassExer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8c2a0c4ba728424756ffdf4709d4c69f90a69b58
+file.0=/home/sparrow/AndroidStudioProjects/CompassExer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_66faba4256c67247646dbe5ed34e95849994e1ba/classes.dex

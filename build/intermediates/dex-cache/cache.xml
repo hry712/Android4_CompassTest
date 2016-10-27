@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/sparrow/AndroidStudioProjects/CompassExer/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffc757ec4cca2d3d75fc80ec8c19a5b2d4ec854e">
+        <dex dex="/home/sparrow/AndroidStudioProjects/CompassExer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8c2a0c4ba728424756ffdf4709d4c69f90a69b58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sparrow/AndroidStudioProjects/CompassExer/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="463d06ca72166e391258072edf0ef8dc033067a7">
+        <dex dex="/home/sparrow/AndroidStudioProjects/CompassExer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_66faba4256c67247646dbe5ed34e95849994e1ba/classes.dex" />
+    </item>
+
+</items>

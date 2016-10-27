@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/sparrow/AndroidStudioProjects/CompassExer/app/build/intermediates/res/merged/debug/layout/sample_compass_view.xml",
+        "source": "/home/sparrow/AndroidStudioProjects/CompassExer/app/src/main/res/layout/sample_compass_view.xml"
+    },
+    {
+        "merged": "/home/sparrow/AndroidStudioProjects/CompassExer/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/sparrow/AndroidStudioProjects/CompassExer/app/src/main/res/layout/activity_main.xml"
+    }
+]
